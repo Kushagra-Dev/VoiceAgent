@@ -181,3 +181,4 @@ examples/dev/*
 
 .env
 *.env
+*/.env

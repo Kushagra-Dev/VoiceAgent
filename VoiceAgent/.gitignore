@@ -179,6 +179,3 @@ docs/
 examples/dev/*
 
 
-.env
-*.env
-*/.env

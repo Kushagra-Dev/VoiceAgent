@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **/.vscode
 **/.DS_Store
 
@@ -177,3 +178,6 @@ docs/
 
 # Examples for development
 examples/dev/*
+=======
+.env
+>>>>>>> 91807e73 (Add root gitignore to ignore env files)
